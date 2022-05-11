@@ -5,8 +5,8 @@ function Form() {
 
     const movie = {
         id: 1,
-        image: "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
-        title: "The Witcher",
+        image: "https://reservacinefila.com.br/wp-content/uploads/2019/04/p8114558_i_h12_ab.jpg",
+        title: "Arn - O Cavaleiro Templário (2007)",
         count: 2,
         score: 4.5
     };
