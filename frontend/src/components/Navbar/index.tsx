@@ -6,10 +6,10 @@ function Navbar() {
         <header>
             <nav className="container">
                 <div className="dsmovie-nav-content">
-                    <h1>DSMovie</h1>
-                    <a href="https://github.com/thmoreiracosta">
-                        <div className="dsmovie-contac-container">
-                            <GithubIcon />
+                    <a href="https://thmoreiracosta.netlify.app/"><h1>ThMovies</h1></a>
+                        <a href="https://github.com/thmoreiracosta">
+                            <div className="dsmovie-contac-container">
+                                <GithubIcon />
                             <p className="dsmovie-contact-link"> /thmoreiracosta</p>
                         </div>
                     </a>
