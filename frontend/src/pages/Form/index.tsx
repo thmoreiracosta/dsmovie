@@ -11,6 +11,7 @@ function Form() {
         score: 4.5
     };
 
+
     return (
         <div className="dsmovie-form-container">
             <img className="dsmovie-movie-card-image" src={movie.image} alt={movie.title} />
