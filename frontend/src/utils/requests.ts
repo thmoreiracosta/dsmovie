@@ -1,2 +1,2 @@
-export const BASE_URL = process.env.REACT_APP_BACKEND_URL ?? "https://thmoreiracosta.netlify.app/";
+export const BASE_URL = process.env.REACT_APP_BACKEND_URL ?? "https://thmoreiracosta.netlify.app";
 
