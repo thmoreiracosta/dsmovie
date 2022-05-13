@@ -1,15 +1,12 @@
 import { Link } from "react-router-dom";
 import MovieScore from "../MovieScore";
+import { Movie } from "types/movie";
 
-function MovieCard() {
+type Props = {
+    movie: Movie;
+}
 
-    const movie = {
-        id: 1,
-        image: "https://i.ytimg.com/vi/q46C3ERrHkg/maxresdefault.jpg",
-        title: "Arn - O Cavaleiro Templário (2007)",
-        count: 2,
-        score: 4.5
-    };
+function MovieCard({ movie }: Props) {
 
     return (
         <div>
