@@ -3,7 +3,6 @@ header {
     height: 60px;
     display: flex;
     align-items: center;
-
 }
 
 .dsmovie-nav-content {
@@ -11,7 +10,6 @@ header {
     justify-content: space-between;
     align-items: center;
     color: #fff;
-
 }
 
 .dsmovie-nav-content h1 {
@@ -23,9 +21,21 @@ header {
 .dsmovie-contac-container {
     display: flex;
     align-items: center;
+    padding-left: 1.5rem;
+}
+
+.dsmovie-social-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
 }
 
 .dsmovie-contact-link {
-    margin: 0 0 0 10px;
+    margin: 0 0 0 9px;
     font-size: 12px;
+}
+
+.dsmovie-contact-link1 {    
+    font-size: 12px;    
+    display:contents;    
 }
