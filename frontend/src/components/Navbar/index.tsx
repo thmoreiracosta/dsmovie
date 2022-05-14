@@ -11,23 +11,30 @@ function Navbar() {
             <h1>ThMovies</h1>
           </Link>
           <div className="dsmovie-social-container">
-                        <a href="https://www.linkedin.com/in/thmoreiracosta/" target='_blank' rel='nooppener noreferrer'  >
-                            <div className="dsmovie-contact-container">
-                                <LinkedIn />
-                                <p className="dsmovie-contact-link1">/thmoreiracosta</p>
-                            </div>
-                        </a>
-          <a href="https://github.com/thmoreiracosta">
-            <div className="dsmovie-contac-container">
-              <GithubIcon />
-              <p className="dsmovie-contact-link"> /thmoreiracosta</p>
-            </div>
-          </a>
+            <a
+              href="https://www.linkedin.com/in/thmoreiracosta/"
+              target="_blank"
+              rel="nooppener noreferrer"
+            >
+              <div className="dsmovie-contact-container">
+                <LinkedIn />
+                <p className="dsmovie-contact-link1">/thmoreiracosta</p>
+              </div>
+            </a>
+            <a href="https://github.com/thmoreiracosta"
+            target="_blank"
+            rel="nooppener noreferrer"
+            >
+              <div className="dsmovie-contac-container">
+                <GithubIcon />
+                <p className="dsmovie-contact-link"> /thmoreiracosta</p>
+              </div>
+            </a>
           </div>
         </div>
       </nav>
     </header>
-  );
+  )
 }
 
-export default Navbar;
+export default Navbar
