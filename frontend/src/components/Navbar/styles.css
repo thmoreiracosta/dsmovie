@@ -5,6 +5,10 @@ header {
   align-items: center;
 }
 
+body {
+  zoom: 1.25;
+}
+
 .dsmovie-nav-content {
   display: flex;
   justify-content: space-between;
