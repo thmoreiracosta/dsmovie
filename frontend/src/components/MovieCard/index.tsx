@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import MovieScore from '../MovieScore'
 import { Movie } from 'types/movie'
+import './styles.css'
 
 type Props = {
   movie: Movie
