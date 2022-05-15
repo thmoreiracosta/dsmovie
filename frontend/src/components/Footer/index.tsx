@@ -19,7 +19,11 @@ const Footer = () => {
         <img src="https://devsuperior.com.br/_next/static/images/logo-white-10059e26f600604a7b5bd7782ed7550c.svg" />{' '}
       </a>
       <p className="footer__copyright">
-        Professor Nélio Alves - Copyright © 2022 - Desenvolvido por Thiago Costa
+        Professor Nélio Alves - Copyright © 2022 - Desenvolvido por{' '}
+        <a target="_blank" href="https://github.com/thmoreiracosta">
+          {' '}
+          Thiago Costa{' '}
+        </a>
         - #SemanaSpringReact da DevSuperior - Todos os direitos reservados.
       </p>
     </footer>
