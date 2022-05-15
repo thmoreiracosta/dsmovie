@@ -6,7 +6,7 @@ header {
 }
 
 body {
-  zoom: 1.25;
+  zoom: 1;
 }
 
 .dsmovie-nav-content {
@@ -25,7 +25,7 @@ body {
 .dsmovie-contac-container {
   display: flex;
   align-items: center;
-  padding-left: 1.5rem;
+  padding-left: 1.3rem;
 }
 
 .dsmovie-social-container {
@@ -35,12 +35,12 @@ body {
 }
 
 .dsmovie-contact-link {
-  margin: 0 0 0 8px;
-  font-size: 12px;
+  margin: 0 0 0 4px;
+  font-size: 11px;
 }
 
 .dsmovie-contact-link1 {
-  font-size: 12px;
+  font-size: 11px;
   display: contents;
 }
 

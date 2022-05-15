@@ -21,9 +21,10 @@ function Navbar() {
                 <p className="dsmovie-contact-link1">/thmoreiracosta</p>
               </div>
             </a>
-            <a href="https://github.com/thmoreiracosta"
-            target="_blank"
-            rel="nooppener noreferrer"
+            <a
+              href="https://github.com/thmoreiracosta"
+              target="_blank"
+              rel="nooppener noreferrer"
             >
               <div className="dsmovie-contac-container">
                 <GithubIcon />
