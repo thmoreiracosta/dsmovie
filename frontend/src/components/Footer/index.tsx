@@ -1,6 +1,5 @@
 import React from 'react'
 
-import { FaHeart } from 'react-icons/fa'
 import { FaYoutube } from 'react-icons/fa'
 import { FaInstagram } from 'react-icons/fa'
 import './styles.css'
